@@ -1,3 +1,4 @@
+## Dupla: Chrystopher Santos e Rafael Danoski
 # Justificativa
 
 A escolha da estrutura de dados,foi um dicionário para armazenar os elementos únicos de um conjunto.
